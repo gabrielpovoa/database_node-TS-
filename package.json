@@ -1,0 +1,22 @@
+{
+  "name": "database_node-ts-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielpovoa/database_node-TS-.git"
+  },
+  "author": "Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielpovoa/database_node-TS-/issues"
+  },
+  "homepage": "https://github.com/gabrielpovoa/database_node-TS-#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.14"
+  }
+}
